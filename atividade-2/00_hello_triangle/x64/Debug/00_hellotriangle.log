@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (01_hellotriangle_two_buffers.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  00_hellotriangle.cpp
+  LINK : C:\Development\University\Computação Gráfica\aula-02\x64\Debug\00_hellotriangle.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  00_hellotriangle.vcxproj -> C:\Development\University\Computação Gráfica\aula-02\x64\Debug\00_hellotriangle.exe
