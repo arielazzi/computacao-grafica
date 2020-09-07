@@ -1,0 +1,4 @@
+﻿  gl3w.c
+  03_hello_window.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  hello-window.vcxproj -> C:\Users\lgonzaga\Desktop\aula-01\x64\Debug\hello-window.exe
