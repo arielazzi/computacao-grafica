@@ -1,0 +1,14 @@
+﻿  gl3w.c
+  lighting_maps_specular.cpp
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\utils\filesystem.h(23,35): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\utils\shader_m.h(53,14): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\utils\shader_m.h(52,13): warning C4101: 'success': unreferenced local variable
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(180,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(291,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(292,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(296,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(297,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(299,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(300,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\05_lighting_maps_specular_map\lighting_maps_specular.cpp(309,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  lighting_maps_specular.vcxproj -> C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\Debug\05_lighting_maps_specular.exe

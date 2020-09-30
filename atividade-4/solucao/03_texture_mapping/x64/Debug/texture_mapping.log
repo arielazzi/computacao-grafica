@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (05_texture_mapping.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  texture_mapping.cpp
+C:\Development\University\Computação Gráfica\atividades\atividade-4\solucao\utils\filesystem.h(23,35): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Development\University\Computação Gráfica\atividades\atividade-4\solucao\utils\shader_s.h(52,14): warning C4101: 'infoLog': unreferenced local variable
+C:\Development\University\Computação Gráfica\atividades\atividade-4\solucao\utils\shader_s.h(51,13): warning C4101: 'success': unreferenced local variable
+C:\Development\University\Computação Gráfica\atividades\atividade-4\solucao\03_texture_mapping\texture_mapping.cpp(225,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Development\University\Computação Gráfica\atividades\atividade-4\solucao\03_texture_mapping\texture_mapping.cpp(231,21): warning C4305: '-=': truncation from 'double' to 'float'
+  texture_mapping.vcxproj -> C:\Development\University\Computação Gráfica\atividades\atividade-4\solucao\x64\Debug\03_texture_mapping.exe

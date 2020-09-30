@@ -1,0 +1,13 @@
+﻿  lighting_maps_diffuse.cpp
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\utils\filesystem.h(23,35): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\utils\shader_m.h(53,14): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\utils\shader_m.h(52,13): warning C4101: 'success': unreferenced local variable
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(178,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(288,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(289,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(293,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(294,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(296,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(297,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\04_lighting_maps_diffuse_map\lighting_maps_diffuse.cpp(306,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  lighting_maps_diffuse.vcxproj -> C:\Users\lgonzaga\Desktop\CG2020-2\aula-07\Debug\04_lighting_maps_diffuse.exe
